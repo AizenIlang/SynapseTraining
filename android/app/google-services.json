@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "534444458610",
+    "project_id": "kikzdelivery",
+    "storage_bucket": "kikzdelivery.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534444458610:android:0e54ac2d2a589f89ffb8eb",
+        "android_client_info": {
+          "package_name": "com.example.kirkzdelivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "534444458610-v8unr0pp4nq22sgjki5b2gpkkdveqsru.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kirkzdelivery",
+            "certificate_hash": "c1c43b081defb6f78a074e7dd7cc5dade4cdee71"
+          }
+        },
+        {
+          "client_id": "534444458610-r16nq74jgg9a2jkeq9ptsn2tfshn0ets.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0_jaITqwO7nURcF9j9KWIYq_hrH7wJDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "534444458610-r16nq74jgg9a2jkeq9ptsn2tfshn0ets.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
